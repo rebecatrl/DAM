@@ -1,2 +1,2 @@
 # DAM
-Repositorio con las prácticas del grado :)
+Repository with my degree's internships
